@@ -23,4 +23,4 @@ I am enthusiastic about all emerging technologies and have a strong sense of cod
 
 * BTC: 3Q6dV8MLJnkEotv3gMtvRFJBoRZjJYWoo1
 * ETH: 0xd43CeAfBbB5fa69656113406e502C2ec37C9dAE5
-* PayPal: paypal.me/MarkDConnelly
+* PayPal: [paypal.me/MarkDConnelly](https://paypal.me/MarkDConnelly)
