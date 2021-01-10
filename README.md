@@ -18,3 +18,9 @@ Here are some ideas to get you started:
 My name is Mark Connelly 😄
 
 I am enthusiastic about all emerging technologies and have a strong sense of code clarity and standards.
+
+## Donations
+
+* BTC: 3Q6dV8MLJnkEotv3gMtvRFJBoRZjJYWoo1
+* ETH: 0xd43CeAfBbB5fa69656113406e502C2ec37C9dAE5
+* PayPal: paypal.me/MarkDConnelly
