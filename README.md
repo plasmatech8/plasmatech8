@@ -29,7 +29,7 @@ This is my [personal website](https://plasmatech.dev).
 * Blockchain Development (Eth, Algo)
 * Linux Development (Security, Apps)
 
-## Donations 🎁
+## Donations 💰
 
 * PayPal: [paypal.me/MarkDConnelly](https://paypal.me/MarkDConnelly)
 * BTC: 3Q6dV8MLJnkEotv3gMtvRFJBoRZjJYWoo1
