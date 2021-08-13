@@ -13,13 +13,23 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hi there 👋
+# Hello there 👋
 
-My name is Mark Connelly 😄
+My name is Mark (plasmatech8).
 
-I am enthusiastic about all emerging technologies and have a strong sense of code clarity and standards.
+I am passionate about emerging technologies and am a believer in strong code clarity and standards.
 
-## Donations
+This is my [personal website](https://plasmatech.dev).
+
+[![plasmatech8's GitHub stats](https://github-readme-stats.vercel.app/api?username=plasmatech8&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+## I’m currently learning 🌱
+
+* Web Development (Vue, Svelte)
+* Blockchain Development (Eth, Algo)
+* Linux Development (Security Modules, Apps)
+
+## Donations 🪙
 
 * BTC: 3Q6dV8MLJnkEotv3gMtvRFJBoRZjJYWoo1
 * ETH: 0xd43CeAfBbB5fa69656113406e502C2ec37C9dAE5
