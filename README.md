@@ -21,16 +21,16 @@ I am passionate about emerging technologies and am a believer in strong code cla
 
 This is my [personal website](https://plasmatech.dev).
 
-[![plasmatech8's GitHub stats](https://github-readme-stats.vercel.app/api?username=plasmatech8&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![plasmatech8's GitHub stats](https://github-readme-stats.vercel.app/api?username=plasmatech8&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
-## I’m currently learning 🌱
+## I’m currently working on 🌱
 
 * Web Development (Vue, Svelte)
 * Blockchain Development (Eth, Algo)
-* Linux Development (Security Modules, Apps)
+* Linux Development (Security, Apps)
 
-## Donations 🪙
+## Donations 🎁
 
+* PayPal: [paypal.me/MarkDConnelly](https://paypal.me/MarkDConnelly)
 * BTC: 3Q6dV8MLJnkEotv3gMtvRFJBoRZjJYWoo1
 * ETH: 0xd43CeAfBbB5fa69656113406e502C2ec37C9dAE5
-* PayPal: [paypal.me/MarkDConnelly](https://paypal.me/MarkDConnelly)
