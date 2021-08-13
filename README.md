@@ -11,6 +11,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+Note: you can use `<p align="center"></p>` to center-align something.
 -->
 
 # Hello there 👋
@@ -21,7 +23,7 @@ I am passionate about emerging technologies and am a believer in strong code cla
 
 This is my [personal website](https://plasmatech.dev).
 
-[![plasmatech8's GitHub stats](https://github-readme-stats.vercel.app/api?username=plasmatech8&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api?username=plasmatech8&theme=gruvbox">
 
 ## I’m currently working on 🌱
 
