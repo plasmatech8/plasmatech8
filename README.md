@@ -17,9 +17,9 @@ Note: you can use `<p align="center"></p>` to center-align something.
 
 # Hello there 👋
 
-My name is Mark (plasmatech8).
+My name is Mark (plasmatech8)
 
-I am passionate about emerging technologies and am a believer in strong code clarity and standards.
+I am passionate about emerging technologies and I love writing clean and organised code.
 
 This is my [personal website](https://plasmatech.dev).
 
