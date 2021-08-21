@@ -21,7 +21,8 @@ My name is Mark (plasmatech8)
 
 I am passionate about emerging technologies and I love writing clean and organised code.
 
-This is my [personal website](https://plasmatech.dev).
+Take a look at my [personal website](https://plasmatech.dev).
+
 
 <img src="https://github-readme-stats.vercel.app/api?username=plasmatech8&theme=gruvbox">
 
@@ -37,10 +38,7 @@ This is my [personal website](https://plasmatech.dev).
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png" width="50px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" width="50px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ethereum/ethereum.png" width="50px">
-
-
 </p>
-
 
 ## I’m currently working on 🌱
 
