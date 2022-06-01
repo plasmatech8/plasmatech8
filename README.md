@@ -49,5 +49,7 @@ Take a look at my [personal website](https://plasmatech.dev).
 ## Donations 💰
 
 * PayPal: [paypal.me/MarkDConnelly](https://paypal.me/MarkDConnelly)
-* BTC: 3Q6dV8MLJnkEotv3gMtvRFJBoRZjJYWoo1
-* ETH: 0xd43CeAfBbB5fa69656113406e502C2ec37C9dAE5
+* BTC: bc1q05he6hjlx5gujwe28ur4547ssan4z0f8wwyzmu
+* ETH: 0x3c073c0d269cdF0241271Bd9fe8C8F5F646A3865
+* ALGO: BP47E3JYVM6ZEXNNXEPISBZGMBKIHV4L5NB57T7NCBYHAQKATZIKYQS6LI
+* XMR: 4AUEWX8C3No132XdBZMY6xantQjJ9Lb8B5DgE8rjkmTLeb7zcvpPwje7aysUAsp56TQtpFQSQh5ZBXR2zZvM8pCTNXrNjkn
