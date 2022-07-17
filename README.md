@@ -21,8 +21,7 @@ My name is Mark (plasmatech8)
 
 I am passionate about emerging technologies and I love writing clean and organised code.
 
-Take a look at my [personal website](https://plasmatech.dev).
-
+Take a look at my ~~[personal website](https://plasmatech.dev)~~ _currently offline_.
 
 <img src="https://github-readme-stats.vercel.app/api?username=plasmatech8&theme=gruvbox">
 
