@@ -15,6 +15,9 @@ Here are some ideas to get you started:
 Note: you can use `<p align="center"></p>` to center-align something.
 -->
 
+```math \ce{$&#x5C;unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url(‘https://user-images.githubusercontent.com/30528167/92789817-e4b53d80-f3b3-11ea-96a4-dad3ea09d237.png?raw=true');]{x0000}$}
+```
+
 # Hello there 👋
 
 My name is Mark (plasmatech8)
@@ -47,8 +50,13 @@ Take a look at my ~~[personal website](https://plasmatech.dev)~~ _currently offl
 
 ## Donations 💰
 
+<details>
+
 * PayPal: [paypal.me/MarkDConnelly](https://paypal.me/MarkDConnelly)
 * BTC: bc1q05he6hjlx5gujwe28ur4547ssan4z0f8wwyzmu
 * ETH: 0x3c073c0d269cdF0241271Bd9fe8C8F5F646A3865
 * ALGO: BP47E3JYVM6ZEXNNXEPISBZGMBKIHV4L5NB57T7NCBYHAQKATZIKYQS6LI
 * XMR: 4AUEWX8C3No132XdBZMY6xantQjJ9Lb8B5DgE8rjkmTLeb7zcvpPwje7aysUAsp56TQtpFQSQh5ZBXR2zZvM8pCTNXrNjkn
+
+</details>
+
