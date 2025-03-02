@@ -48,7 +48,7 @@ I am passionate about technology and I love writing clean and organised code.
 
 </div>
 
-<div style="opacity:0.5;text-align:center">(Stats based on public GitHub data)</div>
+<p align="center">(Stats based on public GitHub data)</p>
 
 ## <img src="./assets/code.gif" alt="Code" width="30" align="center"/> Technologies
 
