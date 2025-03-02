@@ -42,7 +42,7 @@ I am passionate about technology and I love writing clean and organised code.
     srcset="https://github-readme-stats.vercel.app/api/top-langs?username=plasmatech8&show_icons=true&hide_border=true&bg_color=00000000&theme=dark&layout=compact&langs_count=14">
   <source
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    srcset="https://github-readme-stats.vercel.app/api/top-langs?username=plasmatech8&show_icons=true&hide_border=true&bg_color=00000000&theme=default&layout=compact&langs_count=14">
+    srcset="https://github-readme-stats.vercel.app/api/top-langs?username=plasmatech8&show_icons=true&hide_border=true&bg_color=00000000&theme=default&layout=compact&langs_count=14&title_color=000000">
   <img alt="plasmatech8's Programming Language stats" src="">
 </picture>
 
