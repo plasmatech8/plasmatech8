@@ -25,28 +25,30 @@ I am passionate about technology and I love writing clean and organised code.
 
 ## <img src="./assets/fire.png" alt="Fire" width="30" align="center"/> GitHub Stats
 
+<div style="display:flex;place-items:center;">
+
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://github-readme-stats.vercel.app/api?username=plasmatech8&theme=dark&show_icons=true&hide_border=true&hide_title=true&bg_color=00000000&rank_icon=github&show=prs_merged">
+    srcset="https://github-readme-stats.vercel.app/api?username=plasmatech8&show=reviews%2Cdiscussions_started%2Cprs_merged%2Cprs_merged_percentage&show_icons=true&hide_border=true&hide_title=true&bg_color=00000000&rank_icon=github&theme=dark">
   <source
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    srcset="https://github-readme-stats.vercel.app/api?username=plasmatech8&theme=default&show_icons=true&hide_border=true&hide_title=true&bg_color=00000000&rank_icon=github&show=prs_merged">
+    srcset="https://github-readme-stats.vercel.app/api?username=plasmatech8&show=reviews%2Cdiscussions_started%2Cprs_merged%2Cprs_merged_percentage&show_icons=true&hide_border=true&hide_title=true&bg_color=00000000&rank_icon=github&theme=default">
   <img alt="plasmatech8's GitHub stats" src="">
 </picture>
-
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://github-readme-stats.vercel.app/api?username=plasmatech8&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage&show_icons=true&hide_border=true&hide_title=true&bg_color=00000000&rank_icon=github&theme=dark">
+    srcset="https://github-readme-stats.vercel.app/api/top-langs?username=plasmatech8&show_icons=true&hide_border=true&bg_color=00000000&theme=dark&layout=compact&langs_count=14">
   <source
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    srcset="https://github-readme-stats.vercel.app/api?username=plasmatech8&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage&show_icons=true&hide_border=true&hide_title=true&bg_color=00000000&rank_icon=github&theme=default">
-
-  <img alt="plasmatech8's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=plasmatech8&show=reviews%2Cdiscussions_started%2Cdiscussions_answered&#44prs_merged%2Cprs_merged_percentage&show_icons=true&hide_border=true&hide_title=true&bg_color=00000000&rank_icon=github&theme=shadow_red">
+    srcset="https://github-readme-stats.vercel.app/api/top-langs?username=plasmatech8&show_icons=true&hide_border=true&bg_color=00000000&theme=default&layout=compact&langs_count=14">
+  <img alt="plasmatech8's Programming Language stats" src="">
 </picture>
 
-<span style="opacity:50%;margin-left:2rem">(Stats based on public GitHub data)</span>
+</div>
+
+<div style="opacity:0.5;text-align:center">(Stats based on public GitHub data)</div>
 
 ## <img src="./assets/code.gif" alt="Code" width="30" align="center"/> Technologies
 
