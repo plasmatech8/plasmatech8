@@ -27,8 +27,13 @@ I am passionate about technology and I love writing clean and organised code.
 
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=plasmatech8&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&hide_border=true&hide_title=true&bg_color=00000000&rank_icon=github&theme=dark">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=plasmatech8&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&hide_border=true&hide_title=true&bg_color=00000000&rank_icon=github&theme=default">
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://github-readme-stats.vercel.app/api?username=plasmatech8&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&hide_border=true&hide_title=true&bg_color=00000000&rank_icon=github&theme=dark">
+  <source
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    srcset="https://github-readme-stats.vercel.app/api?username=plasmatech8&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&hide_border=true&hide_title=true&bg_color=00000000&rank_icon=github&theme=default">
+
   <img alt="plasmatech8's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=plasmatech8&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&hide_border=true&hide_title=true&bg_color=00000000&rank_icon=github&theme=shadow_red">
 </picture>
 
