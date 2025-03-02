@@ -25,6 +25,15 @@ I am passionate about technology and I love writing clean and organised code.
 
 ## <img src="./assets/fire.png" alt="Fire" width="30" align="center"/> GitHub Stats
 
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://github-readme-stats.vercel.app/api?username=plasmatech8&theme=dark">
+  <source
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    srcset="https://github-readme-stats.vercel.app/api?username=plasmatech8&theme=default">
+  <img alt="plasmatech8's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=plasmatech8&theme=shadow_red">
+</picture>
 
 <picture>
   <source
