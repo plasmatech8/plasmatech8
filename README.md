@@ -28,10 +28,10 @@ I am passionate about technology and I love writing clean and organised code.
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://github-readme-stats.vercel.app/api?username=plasmatech8&theme=dark&show_icons=true&hide_border=true&hide_title=true&bg_color=00000000&rank_icon=github">
+    srcset="https://github-readme-stats.vercel.app/api?username=plasmatech8&theme=dark&show_icons=true&hide_border=true&hide_title=true&bg_color=00000000&rank_icon=github&show=prs_merged">
   <source
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    srcset="https://github-readme-stats.vercel.app/api?username=plasmatech8&theme=default&show_icons=true&hide_border=true&hide_title=true&bg_color=00000000&rank_icon=github">
+    srcset="https://github-readme-stats.vercel.app/api?username=plasmatech8&theme=default&show_icons=true&hide_border=true&hide_title=true&bg_color=00000000&rank_icon=github&show=prs_merged">
   <img alt="plasmatech8's GitHub stats" src="">
 </picture>
 
