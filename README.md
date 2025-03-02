@@ -25,9 +25,12 @@ I am passionate about technology and I love writing clean and organised code.
 
 ## <img src="./assets/fire.png" alt="Fire" width="30" align="center"/> GitHub Stats
 
-[![plasmatech8's GitHub stats](https://github-readme-stats.vercel.app/api?username=plasmatech8&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&hide_border=true&hide_title=true&bg_color=00000000&rank_icon=github&theme=dark#gh-dark-mode-only)](https://github-readme-stats.vercel.app/api?username=plasmatech8&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&hide_border=true&hide_title=true&bg_color=00000000&rank_icon=github&theme=dark#gh-dark-mode-only#gh-dark-mode-only)
 
-[![plasmatech8's GitHub stats](https://github-readme-stats.vercel.app/api?username=plasmatech8&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&hide_border=true&hide_title=true&bg_color=00000000&rank_icon=github&theme=default#gh-light-mode-only)](https://github-readme-stats.vercel.app/api?username=plasmatech8&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&hide_border=true&hide_title=true&bg_color=00000000&rank_icon=github&theme=default#gh-light-mode-only)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=plasmatech8&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&hide_border=true&hide_title=true&bg_color=00000000&rank_icon=github&theme=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=plasmatech8&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&hide_border=true&hide_title=true&bg_color=00000000&rank_icon=github&theme=default">
+  <img alt="plasmatech8's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=plasmatech8&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&hide_border=true&hide_title=true&bg_color=00000000&rank_icon=github&theme=shadow_red">
+</picture>
 
 <span style="opacity:50%;margin-left:2rem">(Stats based on public GitHub data)</span>
 
